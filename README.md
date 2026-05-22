@@ -1,6 +1,6 @@
 # LLM Debate Club
 
-> **Live:** https://llm-debate-club.vercel.app
+> **Live:** https://llm-debate-club.vercel.app · **Source:** https://github.com/dkramer95-stack/llm-debate-club
 
 Two LLMs argue opposite sides of a topic over three rounds (opening, rebuttal, closing). A third LLM judges and returns a winner + scores for Logic / Evidence / Persuasion.
 
