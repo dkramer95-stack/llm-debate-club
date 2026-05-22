@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+.vercel
+*.log
+.DS_Store
+next-env.d.ts
+tsconfig.tsbuildinfo
+.claude/
+stress-test-report.md
+stress-test-report.json
+stress-test-claude.md
+stress-test-claude.json
+verify-prompt-fix.md
